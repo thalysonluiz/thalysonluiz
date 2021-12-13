@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align="right" height="420em" src="https://raw.githubusercontent.com/gist/thalysonluiz/8ab26a9ec05232154899512044e8019c/raw/e4911cac99bb81c292dc1dbe61debee30047f1d8/githubcard.svg"/>
+<img align="right" height="420em" src="https://raw.githubusercontent.com/gist/thalysonluiz/558bd32a41c49a1139e6216648db4f08/raw/da8e5ab42b19ca4b2dc7c16dd31147458c716789/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thalyson Luiz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalysonluiz&color=red" alt="Profile views" /> </p>
 
