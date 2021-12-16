@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Thalyson Luiz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thalysonluiz&color=red" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Web Developer & Computer Scientist 
 
 - 💬 Ask me about **PHP, HTML, CSS, SQL**
 
-- 💻 Learning about **React, Node.js**
+- 💻 Learning about **React, Node.js, React Native**
 
 <br><br>
 
